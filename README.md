@@ -16,4 +16,4 @@
 - Tableau
 
 ## 📫 Reach Me!
-[LinkedIn](www.linkedin.com/in/suteekarnphasugmool) | [GitHub](https://github.com/SuteekarnPhasugmool)
+[LinkedIn](https://www.linkedin.com/in/suteekarnphasugmool) | [GitHub](https://github.com/SuteekarnPhasugmool)
