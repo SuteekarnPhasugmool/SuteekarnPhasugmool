@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Introducing Myself 🙋‍♂️
 
-<!--
-**SuteekarnPhasugmool/SuteekarnPhasugmool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Suteekarn Phasugmool, or you can call me Toon!
+🟢 Self-learning Data Analyst 👨‍💻 | English Major Student at Kasetsart University 👨‍🏫 | Big Band Vocalist 🎤
+🟢 Interested in Data Analytics and Data-Driven Insights 📊
 
-Here are some ideas to get you started:
+## ⭐️ About Me ⭐️
+- 👨‍🎓 University student passionate about data analytics
+- 💻 Building my portfolio with data hard skills
+- 🎶 Head of Vocalist at KU Band, also the committee and media team responsible for public relations
+- 💼 I'm currently learning new skills and building my portfolio!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🍳 Skills
+- SQLite | MySQL | R
+- Google Sheets | Excel
+- Tableau
+
+## 📫 Reach Me!
+[LinkedIn](www.linkedin.com/in/suteekarnphasugmool) | [GitHub](https://github.com/SuteekarnPhasugmool)
