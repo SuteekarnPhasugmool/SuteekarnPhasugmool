@@ -11,9 +11,12 @@
 - 💼 I'm currently learning new skills and building my portfolio!
 
 ## 🍳 Skills
-- SQLite | MySQL | R
-- Google Sheets | Excel
+- SQL (PostgreSQL, MySQL, SQLite)
+- Python (NumPy, Pandas, Matplotlib, Scikit-learn)
+- Excel
+- Google Sheets
 - Tableau
+- R
 
 ## 📫 Reach Me!
-[LinkedIn](https://www.linkedin.com/in/suteekarnphasugmool) | [GitHub](https://github.com/SuteekarnPhasugmool)
+[LinkedIn](https://www.linkedin.com/in/suteekarnphasugmool) | [GitHub](https://github.com/SuteekarnPhasugmool) | [DataCamp Portfolio](https://www.datacamp.com/portfolio/ilcbg)
