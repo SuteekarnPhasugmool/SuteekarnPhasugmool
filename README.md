@@ -1,22 +1,16 @@
 # 👋 Introducing Myself 🙋‍♂️
 
 ## Hi, I'm Suteekarn Phasugmool, or you can call me Toon!
-🟢 Self-learning Data Analyst 👨‍💻 | English Major Student at Kasetsart University 👨‍🏫 | Big Band Vocalist 🎤
-🟢 Interested in Data Analytics and Data-Driven Insights 📊
+🟢 Self-learning Data & AI Professional 👨‍💻 | English Major Graduate from Kasetsart University 👨‍🏫 | Big Band Vocalist 🎤
+🟢 Interested in Data Analytics, Data-Driven Insights and Artificial Intelligence 📊
 
 ## ⭐️ About Me ⭐️
-- 👨‍🎓 University student passionate about data analytics
-- 💻 Building my portfolio with data hard skills
-- 🎶 Head of Vocalist at KU Band, also the committee and media team responsible for public relations
-- 💼 I'm currently learning new skills and building my portfolio!
-
-## 🍳 Skills
-- SQL (PostgreSQL, MySQL, SQLite)
-- Python (NumPy, Pandas, Matplotlib, Scikit-learn)
-- Excel
-- Google Sheets
-- Tableau
-- R
+- 👨‍🎓 English Major Graduate passionate about Data & AI
+- 💻 Building my portfolio with hard skills
+- 🎶 Ex-Head of Vocalist at KU Band, also the committee and media team responsible for public relations
+- 👨‍💼 Ex-Shopee PM
+- 👷‍♂️ Super AI Engineer Season 6 | KIDDEE
+- 💼 I'm currently learning new skills and looking towards career opportunities!
 
 ## 📫 Reach Me!
 [LinkedIn](https://www.linkedin.com/in/suteekarnphasugmool) | [GitHub](https://github.com/SuteekarnPhasugmool) | [DataCamp Portfolio](https://www.datacamp.com/portfolio/ilcbg)
